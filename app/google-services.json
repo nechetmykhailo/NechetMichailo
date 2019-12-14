@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1037610313127",
+    "firebase_url": "https://nechet-michailo.firebaseio.com",
+    "project_id": "nechet-michailo",
+    "storage_bucket": "nechet-michailo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037610313127:android:f80b8fc30b7ea8751b8282",
+        "android_client_info": {
+          "package_name": "com.example.nechetmichailo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037610313127-de5rjgovotujd2egniqa7uihrbfd686n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nechetmichailo",
+            "certificate_hash": "bda3e5fc0f5fc0e5e9d6b63d191007fc6cb38a63"
+          }
+        },
+        {
+          "client_id": "1037610313127-o482p951n1pl7p85h78ii5dpb3jkd4l0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBywgW43f_yK1fqx-w8zRlvtag9sUXt3TI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1037610313127-o482p951n1pl7p85h78ii5dpb3jkd4l0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
